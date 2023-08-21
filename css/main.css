@@ -121,6 +121,10 @@ footer {
   display: flex;
 }
 
+p span {
+  font-family: 'Lora', sans-serif;
+}
+
 main {
   width: 100%;
   display: flex;
